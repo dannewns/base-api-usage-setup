@@ -6,6 +6,6 @@ return [
         'headers' => [],
         'query' => [],
         'auth'  => [],
-        'proxy' =>
+        'proxy' => ''
     ]
 ];
